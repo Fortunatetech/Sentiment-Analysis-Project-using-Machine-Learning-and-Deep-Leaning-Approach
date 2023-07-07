@@ -24,3 +24,4 @@ The aim of the "Adipurush Sentiment Analysis" project is to analyze the sentimen
 3. Data Pre-Proccessing
 4. Wordcloud Representation for Sentiment Text
 5. Application of Machine Learning
+6. Deep Learning Application
